@@ -1,13 +1,13 @@
 # JavaScript30
-___
+---
 
-[https://JavaScript30.com](JavaScript 30 Day Challenge.)
+[https://JavaScript30.com](https://JavaScript30.com)
 
 # Progress
-___
+---
 
 1. [x] ~~JavaScript Drum Kit~~
-2. [ ] JS + CSS Clock
+2. [x] JS + CSS Clock
 3. [ ] CSS Variables
 4. [ ] Array Cardio, Day 1
 5. [ ] Flex Panel Gallery
